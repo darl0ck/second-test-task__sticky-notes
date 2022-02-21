@@ -1,0 +1,14 @@
+.notes-board {
+    position: relative;
+	width: 100%;
+	height: 100%;
+
+    overflow: hidden;
+
+    &__delete-zone {
+        width: 100%;
+        height: 150px;
+
+        background-color: rgba(red, .2)
+    }
+}
